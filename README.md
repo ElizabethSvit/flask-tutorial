@@ -4,15 +4,10 @@ Simple blog site with authentication (login/register/logout)
 
 ## install the project
 
-Use pip to install your project in the virtual environment
+Use pip to install your project in the virtual environment with `pip install -e .`
 
-`pip install -e .`
+Activate the virtual environment with ` . venv/bin/activate`
 
-Activate the virtual environment 
-
-` . venv/bin/activate`
-
-Run the app
-`flask run`
+Run the app with `flask run`
 
 Enjoy blogging. 
