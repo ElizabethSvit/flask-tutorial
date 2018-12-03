@@ -2,7 +2,7 @@
 
 Simple blog site with authentication (login/register/logout)
 
-## install the project
+## To run the project
 
 Use pip to install your project in the virtual environment with `pip install -e .`
 
